@@ -4,7 +4,12 @@
 **hniu-tamu/hniu-tamu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 ## Employment
-- Texas A&M University, College Station
+- [Texas A&M University, College Station](https://tamids.tamu.edu/)
+
+## Projects
+- geemap
+- leafmap
+- whitebox
 
 Here are some ideas to get you started:
 
