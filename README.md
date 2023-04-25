@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+[![Google Scholar Badge](https://img.shields.io/badge/badge-Google--Scholar-blue)](https://scholar.google.com/citations?user=x-xBjiwAAAAJ&hl=en&oi=ao)
 
 **hniu-tamu/hniu-tamu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
