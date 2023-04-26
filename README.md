@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 [![Google Scholar Badge](https://img.shields.io/badge/badge-Google--Scholar-blue)](https://scholar.google.com/citations?user=x-xBjiwAAAAJ&hl=en&oi=ao)
+[![YouTube Badge](https://img.shields.io/badge/My-YouTube-red)](https://www.youtube.com/channel/UCb6fPItDICqCD8GXhQyaTLw)
 
 **Howdy**, I am a ✨Research Engineer✨ in the [Institute of Data Science](https://tamids.tamu.edu/) at the [Texas A&M University, College Station](https://www.tamu.edu/). My research Interests include Machine Learning, Computer vision, and Robotics. More specifically, I am interested in applying big data, deep learning, and remote sensing technology for data analysis.  
 
