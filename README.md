@@ -2,7 +2,7 @@
 
 [![Google Scholar Badge](https://img.shields.io/badge/badge-Google--Scholar-blue)](https://scholar.google.com/citations?user=x-xBjiwAAAAJ&hl=en&oi=ao)
 
-**hniu-tamu/hniu-tamu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Howdy**, I am a ✨Research Engineer✨ in the [Institute of Data Science](https://tamids.tamu.edu/) at [the Texas A&M University, College Station](https://www.tamu.edu/). 
 
 ## Employment
 - [Texas A&M University, College Station](https://tamids.tamu.edu/)
