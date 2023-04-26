@@ -3,7 +3,7 @@
 [![Google Scholar Badge](https://img.shields.io/badge/badge-Google--Scholar-blue)](https://scholar.google.com/citations?user=x-xBjiwAAAAJ&hl=en&oi=ao)
 [![YouTube Badge](https://img.shields.io/badge/My-YouTube-red)](https://www.youtube.com/channel/UCb6fPItDICqCD8GXhQyaTLw)
 [![LinkedIn Badge](https://img.shields.io/badge/My-LinkedIn-blue)](https://www.linkedin.com/in/haoyu-niu-b12834a4/)
-[![Twitter Badge](https://img.shields.io/twitter/follow/giswqs?style=social)](https://twitter.com/Haoyu__Niu)
+[![Twitter Badge](https://img.shields.io/twitter/follow/Haoyu__Niu?style=social)](https://twitter.com/Haoyu__Niu)
 
 
 **Howdy**, I am a ✨Research Engineer✨ in the [Institute of Data Science](https://tamids.tamu.edu/) at the [Texas A&M University, College Station](https://www.tamu.edu/). My research Interests include Machine Learning, Computer vision, and Robotics. More specifically, I am interested in applying big data, deep learning, and remote sensing technology for data analysis.  
